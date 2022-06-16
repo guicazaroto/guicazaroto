@@ -1,8 +1,5 @@
 ### Hi there. I'm Gui 👋
 
-<!--
-**guicazaroto/guicazaroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a software developer with 5+ years of experience.
 
 During my career, I chose to specialize in Frontend development, and worked with the main tools in this field, like VueJs, React, Angular and JQuery. Also with  UI libraries like Bootstrap, Materialize, and Vuetify.
@@ -17,4 +14,3 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
 
 📫 How to reach me: gui.cazaroto@gmail.com
--->
