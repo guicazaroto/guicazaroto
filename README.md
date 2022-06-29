@@ -13,4 +13,4 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 
 When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
 
-📫 How to reach me: gui.cazaroto@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
