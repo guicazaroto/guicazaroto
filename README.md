@@ -1,6 +1,6 @@
 ### Hi there. I'm Gui 👋
 
-I'm a software developer with 5+ years of experience.
+I'm a software developer.
 
 During my career, I chose to specialize in Frontend development, and worked with the main tools in this field, like VueJs, React, Angular and JQuery. Also with  UI libraries like Bootstrap, Materialize, and Vuetify.
 In server-side applications, I worked with PHP (Laravel), NodeJs (Express), C#  (MVC 4),  and ASP 3. But most of the time, I'm focused on the client-side.
