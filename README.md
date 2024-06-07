@@ -13,7 +13,7 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 
 When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&card_width=320&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
