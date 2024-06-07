@@ -16,5 +16,5 @@ When I'm not writing code, I like to spend time with family and friends. In addi
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guicazaroto)](https://github.com/guicazaroto) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
 
