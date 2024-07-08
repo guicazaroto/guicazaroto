@@ -5,8 +5,7 @@ I'm a software developer.
 During my career, I chose to specialize in Frontend development, and worked with the main tools in this field, like VueJs, React, Angular and JQuery. Also with  UI libraries like Bootstrap, Materialize, and Vuetify.
 In server-side applications, I worked with PHP (Laravel), NodeJs (Express), C#  (MVC 4),  and ASP 3. But most of the time, I'm focused on the client-side.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&card_width=1000)  
 
 I'm also able to plan scalable architectures using DDD, clean architecture, unit tests, linters, bundler builders, automation scripts, micro front-end, and the most modern market practices.
 
@@ -16,5 +15,5 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 
 When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto&card_width=1000)](https://github.com/guicazaroto) 
 
