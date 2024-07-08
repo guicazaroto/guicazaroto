@@ -1,11 +1,12 @@
 ### Hi there. I'm Gui 👋
-
-I'm a software developer.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&card_width=400&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
 
+I'm a software developer.
 During my career, I chose to specialize in Frontend development, and worked with the main tools in this field, like VueJs, React, Angular and JQuery. Also with  UI libraries like Bootstrap, Materialize, and Vuetify.
 In server-side applications, I worked with PHP (Laravel), NodeJs (Express), C#  (MVC 4),  and ASP 3. But most of the time, I'm focused on the client-side.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  
+
 
 I'm also able to plan scalable architectures using DDD, clean architecture, unit tests, linters, bundler builders, automation scripts, micro front-end, and the most modern market practices.
 
@@ -15,5 +16,5 @@ As a developer, my main goal is to build the interface designed by the UX/UI tea
 
 When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guicazaroto)](https://github.com/guicazaroto) 
 
