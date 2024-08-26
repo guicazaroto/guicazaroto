@@ -1,17 +1,23 @@
 ### Hi there. I'm Gui 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&card_width=400&logoColor=white&link=https://www.linkedin.com/in/guilherme-cazaroto)](https://www.linkedin.com/in/guilherme-cazaroto)
 
-I'm a software developer.
-During my career, I chose to specialize in Frontend development, and worked with the main tools in this field, like VueJs, React, Angular and JQuery. Also with  UI libraries like Bootstrap, Materialize, and Vuetify.
-In server-side applications, I worked with PHP (Laravel), NodeJs (Express), C#  (MVC 4),  and ASP 3. But most of the time, I'm focused on the client-side.
+I am a software developer and frontend specialist with over 10 years of experience.
 
-I'm also able to plan scalable architectures using DDD, clean architecture, unit tests, linters, bundler builders, automation scripts, micro front-end, and the most modern market practices.
+I consider myself a Full Stack developer capable of participating in the entire software development and engineering process, from requirements gathering, prototyping, and coding (both backend and frontend) to DevOps processes and application monitoring.
 
-Other skills I've developed over the years are knowledge of UX Design and its heuristics. Having performed interface improvement activities, to make them more intuitive for the user.
+Throughout my career, I have chosen to specialize in frontend development and have worked with leading tools in this area, such as React, VueJs, Angular, and JQuery. I have also worked with UI libraries like Tailwind, MUI, Bootstrap, Materialize, and Vuetify. Therefore, most of my time has been focused on the client side.
 
-As a developer, my main goal is to build the interface designed by the UX/UI team with the highest possible fidelity, writing performative code, easy to understand and maintain. I try to find the best practices and patterns of code because a well-planned interface ensures that the code will survive over the years. 
+In addition, I have worked on server-side applications using PHP (Laravel), NodeJs (Express), C# (MVC 4), Ruby on Rails, and ASP 3. I have utilized databases such as MongoDB, Postgres, and MySql.
 
-When I'm not writing code, I like to spend time with family and friends. In addition, I am passionate about music, cinema, and literature.
+I have experience with various cloud platforms, including AWS, Google Cloud, and Azure, and have dealt with CI/CD processes, integrating with these platforms using tools like Github Actions, Docker, among others.
+
+I am also capable of planning scalable architectures using DDD, clean architecture, unit testing, linters, bundling tools, automation scripts, modular and micro front-end, and the latest market practices.
+
+Other skills I have developed over the years include knowledge of UX design and its heuristics. I have undertaken activities to improve interfaces to make them more intuitive for users.
+
+As a developer, my main goal is to build the interface designed by the UX/UI team with the highest possible fidelity, writing performant, easy-to-understand, and maintainable code. I strive to find the best practices and coding standards, as a well-planned interface ensures that the code endures over the years.
+
+When I'm not coding, I enjoy spending time with family and friends. Additionally, I am passionate about music, cinema, and literature.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,materialui,vuetify,git,express,php,laravel,mongodb,mysql,docker,jest,cypress,bootstrap,graphql,jquery,linux,ps&theme=light)](https://github.com/guicazaroto#skills)
